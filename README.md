@@ -1,7 +1,5 @@
 # PROJETO AUTOMAÇÃO EBAC
 
-## 1. Escolha da Ferramenta de Teste
-
 ### Ferramenta Escolhida: Cypress
 
 **Motivo da Escolha:**
@@ -29,7 +27,6 @@
 - **Linguagem:** JavaScript
 - **Framework de Teste:** Cypress
 - **Plugins:** Mochawesome para geração de relatórios
-- **Biblioteca para Dados Fictícios:** Faker
 
 ## 3. Como Instalar e Usar o Projeto
 
