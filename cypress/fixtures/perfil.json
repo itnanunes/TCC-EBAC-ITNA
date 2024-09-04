@@ -1,0 +1,22 @@
+{
+    "usuario1": {
+        "usuario": "itnasantana@gmail.com",
+        "senha": "123456"
+    },
+    "usuario2": {
+        "usuario": "itna02santana@gmail.com",
+        "senha": "123456"
+    },
+    "usuario3": {
+        "usuario": "itna03santana@gmail.com",
+        "senha": "123456"
+    },
+    "usuario4": {
+        "usuario": "itna04santana@gmail.com",
+        "senha": "123456"
+    },
+    "usuario5": {
+        "usuario": "itna05santana@gmail.com",
+        "senha": "123456"
+    }
+}
